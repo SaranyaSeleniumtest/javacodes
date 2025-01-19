@@ -100,11 +100,6 @@ public class javacodes {
 	}
 
 
-	public static void duplicatearray() {
-		int[]arr= {100,66,2625,66,100,99};
-
-
-	}
 
 	public static void armstrongnum() {
 		int num=370;
