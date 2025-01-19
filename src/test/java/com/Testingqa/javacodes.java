@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 public class javacodes {
-
+//Interview codes
 	public static void main(String[] args) {
 		//		largestarray();
 		//		removespace();
